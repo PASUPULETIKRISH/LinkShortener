@@ -1,2 +1,3 @@
 # LinkShortener
-it is my second project in MotionCut using Core java 
+it is my second project in MotionCut using Core java
+Our project on LinkShortener using Core Java is now successfully completed, providing a robust platform for shortening URLs efficiently. Leveraging the power of Core Java, we've implemented a scalable and user-friendly system that allows users to shorten lengthy URLs into concise, shareable links. Additionally, the project includes a feature to post resumes, enhancing its utility and versatility. With meticulous design and rigorous testing, our LinkShortener project ensures reliability and performance, meeting the demands of modern web applications.
